@@ -144,3 +144,34 @@ java.lang.IllegalArgumentException: Path must include project and resource name:
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.resources 2 2 2012-11-10 16:18:07.669
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.669
+!MESSAGE The project description file (.project) for 'ArrayException' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.669
+!MESSAGE The project description file (.project) for 'Beverages' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.669
+!MESSAGE The project description file (.project) for 'BlindDate' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.669
+!MESSAGE The project description file (.project) for 'Car' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.669
+!MESSAGE The project description file (.project) for 'Chat' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.669
+!MESSAGE The project description file (.project) for 'CurrencyConverter' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'Flowers' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'MicroAnimals' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'Momo Bobo' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'MyFirstApp' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'Person' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'SimpleComputation' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'SimpleGUI' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-11-10 16:18:07.670
+!MESSAGE The project description file (.project) for 'TestJVM' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
